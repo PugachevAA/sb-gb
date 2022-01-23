@@ -2,7 +2,7 @@ spring.mvc.view:
   prefix: '/WEB-INF/view/'
   suffix: '.jsp'
 
-shop.properties:
+#shop.properties:
 #  products:
 #    - product:
 #      id: 1
